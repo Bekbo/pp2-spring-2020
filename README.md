@@ -223,3 +223,20 @@ Sample output:
 {1, 2, 4}
 {1, 2, 3, 4, 16}
 ```
+
+### Exercise 13
+
+Create a function that returns Yes, if there can be formed palindrome text using given list of number, or No, if there is no way to make a palindrome. 
+
+Sample input:
+```python
+exercise_13([1,2,3,3,2])
+exercise_13([1,2,3,1,2,3])
+```
+
+Sample Output:
+```
+No
+Yes
+```
+
